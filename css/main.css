@@ -7,15 +7,7 @@ p {
 }
 
 h2 {
-    color: #ff0080;
-}
-
-a {
-  color: #888;
-}
-
-a:hover {
-  color: #000;
+  color: #ff0080;
 }
 
 .max-length {
@@ -25,6 +17,8 @@ a:hover {
 
 .masthead {
   background-color: #ff0080;
+  background-image: url("../images/logo1.svg");
+  background-size: auto;
 
   color: #fff;
 }

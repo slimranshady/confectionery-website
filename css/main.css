@@ -7,7 +7,7 @@ p {
 }
 
 .pink {
-  color: #FF0080;
+  color: #ff0080;
 }
 
 a {
@@ -24,14 +24,14 @@ a:hover {
 }
 
 .masthead {
-  background-color: #FF0080;
+  background-color: #ff0080;
 
   color: #fff;
 }
 
 .nav {
   position: relative;
-  background-color: #FF6FB7;
+  background-color: #ff6Fb7;
   z-index: 2;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 .nav a:hover,
 .nav a:focus {
   background-color: #fff;
-  color: #FF0080;
+  color: #ff0080;
 }
 
 th,
@@ -88,22 +88,22 @@ td {
 }
 
 .btn {
-  background-color: #FFE800;
-  border-color: #FFE800;
+  background-color: #ffe800;
+  border-color: #ffe800;
   border-radius: 2rem;
 
-  color: #FF0080;
+  color: #ff0080;
 }
 
 .btn:hover {
-  background-color: #FF0080;
-  border-color: #FF0080;
+  background-color: #ff0080;
+  border-color: #ff0080;
 
-  color: #FFE800;
+  color: #ffe800;
 }
 
 .footer {
-  background-color: #FF0080;
+  background-color: #ff0080;
   color: #fff;
 }
 

@@ -1,0 +1,121 @@
+html {
+  font-family: 'Finger Paint', cursive;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pink {
+  color: #FF0080;
+}
+
+a {
+  color: #888;
+}
+
+a:hover {
+  color: #000;
+}
+
+.max-length {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.masthead {
+  background-color: #FF0080;
+
+  color: #fff;
+}
+
+.nav {
+  position: relative;
+  background-color: #FF6FB7;
+  z-index: 2;
+}
+
+.nav a {
+  display: inline-block;
+  padding: .5rem .75rem;
+
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover,
+.nav a:focus {
+  background-color: #fff;
+  color: #FF0080;
+}
+
+th,
+td {
+  border-color: #777;
+}
+
+.sweets {
+  background-color: #fff;
+}
+
+.about {
+  position: relative;
+}
+
+.about-content {
+  background-color: #fff;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  position: absolute;
+  padding-bottom: 15%;
+}
+
+.hours {
+  background-color: #fff;
+}
+
+.reviews {
+  background-color: #fff;
+}
+
+.location {
+  background-color: #fff;
+}
+
+.contact {
+  background-color: #fff;
+}
+
+.btn {
+  background-color: #FFE800;
+  border-color: #FFE800;
+  border-radius: 2rem;
+
+  color: #FF0080;
+}
+
+.btn:hover {
+  background-color: #FF0080;
+  border-color: #FF0080;
+
+  color: #FFE800;
+}
+
+.footer {
+  background-color: #FF0080;
+  color: #fff;
+}
+
+@media only screen and (min-width: 0em) {
+
+  .about-content {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(17, 0, 0, 0), rgba(17, 0, 0, .8));
+  }
+
+}

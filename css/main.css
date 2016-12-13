@@ -27,7 +27,7 @@ h2 {
 
 .masthead {
   background-color: #ff0080;
-  background-image: url("../images/logo1.svg");
+  background-image: url("../images/svg/logo1.svg");
   background-size: auto;
 
   color: #fff;
@@ -44,6 +44,11 @@ h2 {
   vertical-align: middle;
   position: absolute;
   padding-bottom: 15%;
+}
+
+span {
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
 }
 
 .btn {

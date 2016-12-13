@@ -120,10 +120,6 @@ nav a:hover {
   top: 1rem;
 }
 
-.nav-check:checked ~ .nav-label {
-
-}
-
 .nav-open,
 .nav-close {
   width: 75%;
